@@ -1,70 +1,70 @@
-,zipcode,RegionName,City,State,SizeRank,cost
-146,22021,Fairport,Perinton,NY,147,125940
-195,27225,Spring Valley,Ramapo,NY,196,208629
-221,39971,New City,Clarkstown,NY,222,248795
-267,21885,Holbrook,Islip,NY,268,228046
-325,26061,Nanuet,Clarkstown,NY,326,292260
-348,43174,Yorktown Heights,Yorktown,NY,349,326697
-448,343877,Maplewood,Rochester,NY,449,60581
-509,8449,Eggertsville,Amherst,NY,510,78641
-516,38178,Delmar,Bethlehem,NY,517,149942
-549,15126,Kenmore,Tonawanda,NY,550,75465
-563,47039,Pearl River,Orangetown,NY,564,321763
-569,270899,North Park,Buffalo,NY,570,73608
-610,275929,Washington Square,Syracuse,NY,611,36645
-622,194503,Eastwood,Syracuse,NY,623,62650
-676,42226,Lansingburgh,Troy,NY,677,89837
-756,275206,Riverside Park,Buffalo,NY,757,51057
-803,7663,Valley Cottage,Clarkstown,NY,804,217669
-843,54599,Suffern,Ramapo,NY,844,271802
-899,198092,South Troy,Troy,NY,900,79052
-915,252377,Woodlawn,Schenectady,NY,916,78796
-950,12514,Mahopac,Carmel,NY,951,267038
-992,50093,Snyder,Amherst,NY,993,101536
-1067,343880,Lyell-Otis,Rochester,NY,1068,43054
-1084,342696,Campus Area (University District),Albany,NY,1085,123606
-1132,342683,Delaware Avenue,Albany,NY,1133,97445
-1146,4083,Chestnut Ridge,Ramapo,NY,1147,296553
-1156,396747,Glens Falls North,Queensbury,NY,1157,127345
-1168,274792,Northside,Syracuse,NY,1169,60727
-1172,764297,Northside,Schenectady,NY,1173,90150
-1194,762152,Union Street,Schenectady,NY,1195,101550
-1255,270874,Lovejoy,Buffalo,NY,1256,35579
-1282,343882,Culver-Winton,Rochester,NY,1283,68214
-1354,698705,Rye Neck,Mamaroneck,NY,1355,443415
-1375,193771,Charlotte,Rochester,NY,1376,70696
-1423,49975,Tappan,Orangetown,NY,1424,318930
-1442,273703,Far West-Side,Syracuse,NY,1443,53916
-1460,198048,South Hill,Ithaca,NY,1461,129435
-1473,17556,Congers,Clarkstown,NY,1474,326167
-1494,6263,Nyack,Orangetown,NY,1495,342663
-1519,34741,West Glens Falls,Queensbury,NY,1520,99740
-1536,270935,South Park,Buffalo,NY,1537,63032
-1549,399420,Bellevue,Schenectady,NY,1550,71459
-1552,276596,Strathmore,Syracuse,NY,1553,76454
-1591,395439,Carmel Hamlet,Carmel,NY,1592,227979
-1605,764315,Old Niskayuna,Niskayuna,NY,1606,125584
-1684,9545,Westmere,Guilderland,NY,1685,136184
-1695,274757,North Valley,Syracuse,NY,1696,49072
-1722,343879,Highland,Rochester,NY,1723,88101
-1818,25472,Lake Mohegan,Yorktown,NY,1819,247341
-1820,194699,Firthcliffe,Cornwall,NY,1821,179529
-1839,275463,South Valley,Syracuse,NY,1840,65209
-1863,274481,Meadowbrook,Syracuse,NY,1864,101411
-1894,343886,Northland-Lyceum,Rochester,NY,1895,56027
-1921,762885,Eastside,Troy,NY,1922,119301
-1980,342695,Buckingham Lake - Crestwood,Albany,NY,1981,140666
-1997,275276,Salt Springs,Syracuse,NY,1998,65269
-2086,274929,Outer Comstock,Syracuse,NY,2087,61385
-2333,343894,Ellwanger-Barry,Rochester,NY,2334,57937
-2379,195355,Heritage Hills,Somers,NY,2380,332547
-2733,20527,Sloatsburg,Ramapo,NY,2734,237803
-3023,194570,Elma Center,Elma,NY,3024,176042
-3158,342688,Whitehall,Albany,NY,3159,126888
-3304,195317,Haviland,Hyde Park,NY,3305,151168
-3324,12390,Lincolndale,Somers,NY,3325,332920
-3380,43784,Aquebogue,Riverhead,NY,3381,274203
-3408,13814,Shenorock,Somers,NY,3409,295607
-3437,194408,East Ithaca,Ithaca,NY,3438,123414
-3515,342687,Normanskill,Albany,NY,3516,151702
-3719,41984,Baiting Hollow,Calverton,NY,3720,233845
+,zipcode,RegionName,City,State,SizeRank,LatestPrice
+146,22021,Fairport,Perinton,NY,147,156800
+195,27225,Spring Valley,Ramapo,NY,196,313200
+221,39971,New City,Clarkstown,NY,222,261200
+267,21885,Holbrook,Islip,NY,268,261900
+325,26061,Nanuet,Clarkstown,NY,326,311200
+348,43174,Yorktown Heights,Yorktown,NY,349,378300
+448,343877,Maplewood,Rochester,NY,449,70400
+509,8449,Eggertsville,Amherst,NY,510,110000
+516,38178,Delmar,Bethlehem,NY,517,191900
+549,15126,Kenmore,Tonawanda,NY,550,105000
+563,47039,Pearl River,Orangetown,NY,564,362000
+569,270899,North Park,Buffalo,NY,570,113100
+610,275929,Washington Square,Syracuse,NY,611,41700
+622,194503,Eastwood,Syracuse,NY,623,73600
+676,42226,Lansingburgh,Troy,NY,677,107600
+756,275206,Riverside Park,Buffalo,NY,757,60900
+803,7663,Valley Cottage,Clarkstown,NY,804,240000
+843,54599,Suffern,Ramapo,NY,844,294700
+899,198092,South Troy,Troy,NY,900,104300
+915,252377,Woodlawn,Schenectady,NY,916,87600
+950,12514,Mahopac,Carmel,NY,951,303100
+992,50093,Snyder,Amherst,NY,993,133900
+1067,343880,Lyell-Otis,Rochester,NY,1068,52600
+1084,342696,Campus Area (University District),Albany,NY,1085,151700
+1132,342683,Delaware Avenue,Albany,NY,1133,106300
+1146,4083,Chestnut Ridge,Ramapo,NY,1147,377400
+1156,396747,Glens Falls North,Queensbury,NY,1157,161200
+1168,274792,Northside,Syracuse,NY,1169,69000
+1172,764297,Northside,Schenectady,NY,1173,96600
+1194,762152,Union Street,Schenectady,NY,1195,116100
+1255,270874,Lovejoy,Buffalo,NY,1256,42900
+1282,343882,Culver-Winton,Rochester,NY,1283,98300
+1354,698705,Rye Neck,Mamaroneck,NY,1355,577800
+1375,193771,Charlotte,Rochester,NY,1376,84700
+1423,49975,Tappan,Orangetown,NY,1424,378600
+1442,273703,Far West-Side,Syracuse,NY,1443,64200
+1460,198048,South Hill,Ithaca,NY,1461,167800
+1473,17556,Congers,Clarkstown,NY,1474,364300
+1494,6263,Nyack,Orangetown,NY,1495,346400
+1519,34741,West Glens Falls,Queensbury,NY,1520,130700
+1536,270935,South Park,Buffalo,NY,1537,91900
+1549,399420,Bellevue,Schenectady,NY,1550,77200
+1552,276596,Strathmore,Syracuse,NY,1553,82300
+1591,395439,Carmel Hamlet,Carmel,NY,1592,256400
+1605,764315,Old Niskayuna,Niskayuna,NY,1606,158600
+1684,9545,Westmere,Guilderland,NY,1685,167400
+1695,274757,North Valley,Syracuse,NY,1696,57000
+1722,343879,Highland,Rochester,NY,1723,131100
+1818,25472,Lake Mohegan,Yorktown,NY,1819,277200
+1820,194699,Firthcliffe,Cornwall,NY,1821,159700
+1839,275463,South Valley,Syracuse,NY,1840,73200
+1863,274481,Meadowbrook,Syracuse,NY,1864,133200
+1894,343886,Northland-Lyceum,Rochester,NY,1895,72600
+1921,762885,Eastside,Troy,NY,1922,141300
+1980,342695,Buckingham Lake - Crestwood,Albany,NY,1981,177900
+1997,275276,Salt Springs,Syracuse,NY,1998,77400
+2086,274929,Outer Comstock,Syracuse,NY,2087,83400
+2333,343894,Ellwanger-Barry,Rochester,NY,2334,96200
+2379,195355,Heritage Hills,Somers,NY,2380,405500
+2733,20527,Sloatsburg,Ramapo,NY,2734,260800
+3023,194570,Elma Center,Elma,NY,3024,225700
+3158,342688,Whitehall,Albany,NY,3159,147300
+3304,195317,Haviland,Hyde Park,NY,3305,141200
+3324,12390,Lincolndale,Somers,NY,3325,385400
+3380,43784,Aquebogue,Riverhead,NY,3381,351200
+3408,13814,Shenorock,Somers,NY,3409,330800
+3437,194408,East Ithaca,Ithaca,NY,3438,185600
+3515,342687,Normanskill,Albany,NY,3516,187500
+3719,41984,Baiting Hollow,Calverton,NY,3720,273100
